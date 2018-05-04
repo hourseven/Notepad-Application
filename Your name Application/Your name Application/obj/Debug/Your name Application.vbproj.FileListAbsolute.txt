@@ -1,0 +1,12 @@
+C:\Users\chen534\AppData\Local\Temporary Projects\Your name Application\bin\Debug\Your name Application.exe.config
+C:\Users\chen534\Documents\Visual Studio 2012\Projects\Your name Application\Your name Application\bin\Debug\Your name Application.exe.config
+C:\Users\chen534\Documents\Visual Studio 2012\Projects\Your name Application\Your name Application\bin\Debug\Your name Application.exe
+C:\Users\chen534\Documents\Visual Studio 2012\Projects\Your name Application\Your name Application\bin\Debug\Your name Application.pdb
+C:\Users\chen534\Documents\Visual Studio 2012\Projects\Your name Application\Your name Application\bin\Debug\Your name Application.xml
+C:\Users\chen534\Documents\Visual Studio 2012\Projects\Your name Application\Your name Application\obj\Debug\Your_name_Application.Form1.resources
+C:\Users\chen534\Documents\Visual Studio 2012\Projects\Your name Application\Your name Application\obj\Debug\Your_name_Application.Resources.resources
+C:\Users\chen534\Documents\Visual Studio 2012\Projects\Your name Application\Your name Application\obj\Debug\Your name Application.vbproj.GenerateResource.Cache
+C:\Users\chen534\Documents\Visual Studio 2012\Projects\Your name Application\Your name Application\obj\Debug\Your name Application.exe
+C:\Users\chen534\Documents\Visual Studio 2012\Projects\Your name Application\Your name Application\obj\Debug\Your name Application.xml
+C:\Users\chen534\Documents\Visual Studio 2012\Projects\Your name Application\Your name Application\obj\Debug\Your name Application.pdb
+C:\Users\chen534\Documents\Visual Studio 2012\Projects\Your name Application\Your name Application\bin\Debug\Evan Application.exe.config
